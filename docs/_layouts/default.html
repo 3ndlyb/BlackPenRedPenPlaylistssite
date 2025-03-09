@@ -4,7 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
+  <!-- Load the built-in theme CSS (if needed) -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <!-- Load your custom CSS overrides -->
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
   <!-- MathJax for LaTeX rendering -->
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script id="MathJax-script" async
