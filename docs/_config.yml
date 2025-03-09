@@ -1,4 +1,9 @@
 title: Stewart Calculus Playlists
 description: Organized playlists for selected sections.
 theme: jekyll-theme-hacker
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  math_engine_opts:
+    preview: false
 
