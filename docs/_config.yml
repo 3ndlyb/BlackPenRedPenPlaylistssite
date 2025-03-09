@@ -3,7 +3,7 @@ description: Organized playlists for selected sections.
 theme: jekyll-theme-hacker
 markdown: kramdown
 kramdown:
-  input: GFM
-  math_engine: mathjax
-  math_engine_opts:
-    preview: "TeX"
+  input: GFM       # Enables GitHub Flavored Markdown
+  hard_wrap: false
+  auto_ids: true
+  toc_levels: 1..6
