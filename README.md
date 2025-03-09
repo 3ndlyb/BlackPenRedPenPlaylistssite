@@ -20,8 +20,8 @@ This repository contains a Jekyll website that organizes YouTube playlists for s
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/stewart-calculus-playlists.git
-   cd stewart-calculus-playlists
+   git clone https://github.com/3ndlyb/BlackPenRedPenPlaylistssite.git
+   cd BlackPenRedPenPlaylistssite
    ```
 
 3. **Install Dependencies**:
